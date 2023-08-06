@@ -61,7 +61,7 @@
 
 *用分散的协议和技术构建的东西*
 
-
+* [nostr](https://nostr.com/) 代表“Notes and Other Stuff Transmitted by Relays”，是一个针对抵制审查的全球网络的开放协议。已经有[many implementations](https://www.nostr.net/) 
 
 
 ###合作
